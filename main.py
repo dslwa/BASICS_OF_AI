@@ -2,8 +2,8 @@ import os
 from PIL import Image
 import numpy as np
 
-input_folder = "polaczone_pliki"
-output_folder = "dataset_binarized"
+input_folder = "Merged"
+output_folder = "dataset_binarized2"
 
 
 def binarize_image(image_path, threshold=45):
