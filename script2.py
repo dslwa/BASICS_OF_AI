@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-folder_path = 'Merged'
+folder_path = 'dataset_binarized'
 bmp_files = [f for f in os.listdir(folder_path) if f.endswith('.bmp')]
 for file in bmp_files:
     file_path = os.path.join(folder_path, file)
