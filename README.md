@@ -1,5 +1,4 @@
-# Basics-Of-AI
-## 📜 Opis skryptów w projekcie SEM Image Preprocessing
+## 📜 Opis skryptów w projekcie AI
 
 ### `MergeFolder.py`
 Skrypt służy do:
@@ -25,7 +24,7 @@ Zadaniem skryptu jest:
 - Przycięcie obrazu z góry i dołu (usunięcie po 30 pikseli).
 - Zapisanie nowego przyciętego obrazu z prefiksem `cropped_`.
 
-### Skrypt w języku R
+### TEST.R
 Zawiera:
 - Funkcje do wczytywania obrazów i odpowiadających im masek z dwóch folderów.
 - Możliwość wizualizacji wybranego obrazu i jego maski obok siebie.
